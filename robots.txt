@@ -1,0 +1,4 @@
+# robots.txt
+# allow access to all
+User-agent: *
+Disallow:
